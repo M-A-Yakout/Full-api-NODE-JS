@@ -1,0 +1,16 @@
+HTTP/1.1 302 Moved Temporarily
+Server: ZTE web server 1.0 ZTE corp 2015.
+Accept-Ranges: bytes
+Connection: close
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache,no-store
+Content-Length: 126135
+Set-Cookie: _TESTCOOKIESUPPORT=1; PATH=/; HttpOnly
+Location: https://192.168.1.1
+Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' data:;
+X-XSS-Protection: 1; mode=block
+Set-Cookie: SID=;expires=Thu, 01-Jan-1970 00:00:00 GMT;path=/;
+

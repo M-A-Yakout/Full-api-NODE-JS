@@ -1,0 +1,7 @@
+node . in UNIX SYSTEM
+
+TO CREATE KEY =
+
+require('crypto').randomBytes(32).toString('hex')
+
+FOR JWT KEY
